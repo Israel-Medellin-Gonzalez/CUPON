@@ -1,0 +1,16 @@
+M:\3er Cuatrimestre\Programación Orientada a Objetos\CUPON\CUPON\bin\Debug\net8.0-windows\CUPON.exe
+M:\3er Cuatrimestre\Programación Orientada a Objetos\CUPON\CUPON\bin\Debug\net8.0-windows\CUPON.deps.json
+M:\3er Cuatrimestre\Programación Orientada a Objetos\CUPON\CUPON\bin\Debug\net8.0-windows\CUPON.runtimeconfig.json
+M:\3er Cuatrimestre\Programación Orientada a Objetos\CUPON\CUPON\bin\Debug\net8.0-windows\CUPON.dll
+M:\3er Cuatrimestre\Programación Orientada a Objetos\CUPON\CUPON\bin\Debug\net8.0-windows\CUPON.pdb
+M:\3er Cuatrimestre\Programación Orientada a Objetos\CUPON\CUPON\obj\Debug\net8.0-windows\CUPON.Form1.resources
+M:\3er Cuatrimestre\Programación Orientada a Objetos\CUPON\CUPON\obj\Debug\net8.0-windows\CUPON.csproj.GenerateResource.cache
+M:\3er Cuatrimestre\Programación Orientada a Objetos\CUPON\CUPON\obj\Debug\net8.0-windows\CUPON.GeneratedMSBuildEditorConfig.editorconfig
+M:\3er Cuatrimestre\Programación Orientada a Objetos\CUPON\CUPON\obj\Debug\net8.0-windows\CUPON.AssemblyInfoInputs.cache
+M:\3er Cuatrimestre\Programación Orientada a Objetos\CUPON\CUPON\obj\Debug\net8.0-windows\CUPON.AssemblyInfo.cs
+M:\3er Cuatrimestre\Programación Orientada a Objetos\CUPON\CUPON\obj\Debug\net8.0-windows\CUPON.csproj.CoreCompileInputs.cache
+M:\3er Cuatrimestre\Programación Orientada a Objetos\CUPON\CUPON\obj\Debug\net8.0-windows\CUPON.dll
+M:\3er Cuatrimestre\Programación Orientada a Objetos\CUPON\CUPON\obj\Debug\net8.0-windows\refint\CUPON.dll
+M:\3er Cuatrimestre\Programación Orientada a Objetos\CUPON\CUPON\obj\Debug\net8.0-windows\CUPON.pdb
+M:\3er Cuatrimestre\Programación Orientada a Objetos\CUPON\CUPON\obj\Debug\net8.0-windows\CUPON.genruntimeconfig.cache
+M:\3er Cuatrimestre\Programación Orientada a Objetos\CUPON\CUPON\obj\Debug\net8.0-windows\ref\CUPON.dll
