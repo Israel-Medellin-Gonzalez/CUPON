@@ -67,6 +67,10 @@ namespace CUPON
             {
                 descuento = tope_limite;
             }
+            else
+            {
+                descuento = 0;
+            }
 
             return descuento;
         }
